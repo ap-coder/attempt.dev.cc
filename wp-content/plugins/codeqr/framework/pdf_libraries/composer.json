@@ -1,0 +1,16 @@
+{
+    "name": "mrcodeblocks/pdf_libraries",
+    "authors": [
+        {
+            "name": "Jacob Ross",
+            "email": "jacobrossdev@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdi": "^2.2",
+        "setasign/fpdi-tcpdf": "^2.2",
+        "setasign/fpdi-fpdf": "^2.2",
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi-tfpdf": "^2.2"
+    }
+}

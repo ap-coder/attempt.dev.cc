@@ -1,0 +1,6 @@
+/*.btn { padding: 4px; border-radius: 3px; }
+.btn.btn-select { padding: 3px 6px; text-align: center; background-color: #7699ff; float: right; cursor: pointer; }
+.btn.btn-unselect { padding: 3px 6px; text-align: center; background-color: #ff768e; float: right; cursor: pointer; }
+.btn.btn-remove { padding: 6px 8px; text-align: center; background-color: #f74932; cursor: pointer; }
+#selected-products li, #product-list li { margin-bottom: 10px; }
+.dz-size { float: left; padding-right: 10px; }*/

@@ -1,0 +1,61 @@
+#software-shortcode-list {}
+
+#software-shortcode-list .software {
+
+	display: flex;
+
+	flex-direction: row;
+
+	align-items: stretch;
+
+	border: 1px solid #aaa;
+
+	padding: 10px;
+
+	background-color: #fafafa;
+
+	border-radius: 8px;
+
+}
+
+#software-shortcode-list .software h4 {
+
+	margin: 10px 0;
+
+	font-weight: normal;
+
+}
+
+#software-shortcode-list .software .download {
+
+	margin-left: auto; font-size: 30px; align-self: center; padding: 0 10px 0 20px;
+
+}
+
+#software-shortcode-list .software p {
+
+	margin-bottom: 10px;
+
+}
+
+.right {float:right;}
+
+.left {float: left}
+
+.none {float: none; overflow: hidden;}
+
+
+
+#software-shortcode-list:before,
+
+#software-shortcode-list:after {content: " "; display: table; }
+
+#software-shortcode-list:after {clear: both; }
+
+
+
+table {
+
+	width: 100%;
+
+}
